@@ -1,0 +1,6 @@
+artifact_location: file:///kaggle/working/mlruns/446966349057200023
+creation_time: 1731767650867
+experiment_id: '446966349057200023'
+last_update_time: 1731767650867
+lifecycle_stage: active
+name: Classification_Finetuining_Mistral_Model_Experiment

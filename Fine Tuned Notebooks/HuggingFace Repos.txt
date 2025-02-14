@@ -1,0 +1,7 @@
+1- https://huggingface.co/alinasser930/unsloth-mistral-tuned_model
+
+2- https://huggingface.co/hassaangamal/unsloth-Llama-tuned
+
+3- https://huggingface.co/Seedawy/unsloth-gemma2-2b-tuned
+
+4- https://huggingface.co/yaramahfouz/unsloth-Phi-3.5-mini-tuned

@@ -1,0 +1,6 @@
+artifact_location: /content/mlruns/389031999960191420
+creation_time: 1731821818787
+experiment_id: '389031999960191420'
+last_update_time: 1731821818787
+lifecycle_stage: active
+name: Classification_Finetuining_gemma22b_Model_Experiment

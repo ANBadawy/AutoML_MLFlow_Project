@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/396338799353400542/37cd7384ae9e4c30b9926175855e42a6/artifacts
+end_time: 1731686556025
+entry_point_name: ''
+experiment_id: '396338799353400542'
+lifecycle_stage: active
+run_id: 37cd7384ae9e4c30b9926175855e42a6
+run_name: Llama-3.2
+run_uuid: 37cd7384ae9e4c30b9926175855e42a6
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731686556002
+status: 3
+tags: []
+user_id: root

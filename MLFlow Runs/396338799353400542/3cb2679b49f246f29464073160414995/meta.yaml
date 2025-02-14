@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/396338799353400542/3cb2679b49f246f29464073160414995/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '396338799353400542'
+lifecycle_stage: active
+run_id: 3cb2679b49f246f29464073160414995
+run_name: brawny-gnu-418
+run_uuid: 3cb2679b49f246f29464073160414995
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731686595251
+status: 1
+tags: []
+user_id: root

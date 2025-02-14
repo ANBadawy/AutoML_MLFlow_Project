@@ -1,0 +1,15 @@
+artifact_uri: /content/mlruns/389031999960191420/9a2ba0036fa241c5b7f84fcbd2651425/artifacts
+end_time: 1731822343997
+entry_point_name: ''
+experiment_id: '389031999960191420'
+lifecycle_stage: active
+run_id: 9a2ba0036fa241c5b7f84fcbd2651425
+run_name: gemma22b
+run_uuid: 9a2ba0036fa241c5b7f84fcbd2651425
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731821819058
+status: 3
+tags: []
+user_id: root

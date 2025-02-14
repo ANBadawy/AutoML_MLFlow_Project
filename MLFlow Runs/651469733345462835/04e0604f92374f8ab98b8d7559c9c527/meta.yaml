@@ -1,0 +1,15 @@
+artifact_uri: file:///kaggle/working/mlruns/651469733345462835/04e0604f92374f8ab98b8d7559c9c527/artifacts
+end_time: null
+entry_point_name: ''
+experiment_id: '651469733345462835'
+lifecycle_stage: active
+run_id: 04e0604f92374f8ab98b8d7559c9c527
+run_name: Phi-3.5-mini
+run_uuid: 04e0604f92374f8ab98b8d7559c9c527
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1731865883639
+status: 1
+tags: []
+user_id: root
